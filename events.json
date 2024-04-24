@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "title": "Munich Oktoberfest",
+            "date": "September 21, 2024",
+            "description": "Experience the world's largest beer festival with traditional Bavarian food, music, and entertainment.",
+            "image": "https://example.com/oktoberfest.jpg"
+        },
+        {
+            "title": "Munich Christmas Market",
+            "date": "December 1, 2024",
+            "description": "Enjoy the festive atmosphere of Munich's Christmas market with holiday treats and gifts.",
+            "image": "https://example.com/christmas_market.jpg"
+        }
+    ]
+}
